@@ -1,4 +1,4 @@
-// interfaccia per tutti i panini
+// interfaccia abstract product per i panini
 public interface Panino {
     void prepara();
 }

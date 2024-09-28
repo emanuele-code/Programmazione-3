@@ -1,4 +1,4 @@
-// interfaccia per tutte le bibite
+// interfaccia abstract product per le bibite
 public interface Bibita {
     void prepara();
 }

@@ -1,4 +1,4 @@
-// Notiamo che la Factory Ristorante ha due Factory method in base al prodotto e due metodi diverse da richiamare
+// Questa è l'abstract Factory che offre i due factory method
 public abstract class Ristorante {
     Ristorante(){}
 

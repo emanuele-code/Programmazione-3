@@ -1,3 +1,4 @@
+// Questo è un prodotto
 public class ConcretePaninoPesce implements Panino {
     ConcretePaninoPesce() {}
 

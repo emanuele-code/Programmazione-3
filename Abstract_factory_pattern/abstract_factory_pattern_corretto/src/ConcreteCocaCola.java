@@ -1,3 +1,4 @@
+// Questo è un prodotto
 public class ConcreteCocaCola implements Bibita {
     ConcreteCocaCola(){}
 
