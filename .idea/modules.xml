@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/Builder_pattern/Builder_pattern_con_director/Builder_pattern_con_director.iml" filepath="$PROJECT_DIR$/Builder_pattern/Builder_pattern_con_director/Builder_pattern_con_director.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder_pattern/Builder_pattern_no_Director/Builder_pattern_no_Director.iml" filepath="$PROJECT_DIR$/Builder_pattern/Builder_pattern_no_Director/Builder_pattern_no_Director.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Programmazione-3.iml" filepath="$PROJECT_DIR$/.idea/Programmazione-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype_pattern/Prototype_patter_con_classe_astratta/Prototype_patter_con_classe_astratta.iml" filepath="$PROJECT_DIR$/Prototype_pattern/Prototype_patter_con_classe_astratta/Prototype_patter_con_classe_astratta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype_pattern/Prototype_pattern_con_interfaccia/Prototype_pattern.iml" filepath="$PROJECT_DIR$/Prototype_pattern/Prototype_pattern_con_interfaccia/Prototype_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Abstract_factory_pattern/abstract_factory_pattern_corretto/abstract_factory_pattern_corretto.iml" filepath="$PROJECT_DIR$/Abstract_factory_pattern/abstract_factory_pattern_corretto/abstract_factory_pattern_corretto.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory_pattern/factory_method_design_pattern/factory_method_design_pattern.iml" filepath="$PROJECT_DIR$/Factory_pattern/factory_method_design_pattern/factory_method_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory_pattern/simple_factory_pattern/simple_factory_pattern.iml" filepath="$PROJECT_DIR$/Factory_pattern/simple_factory_pattern/simple_factory_pattern.iml" />
