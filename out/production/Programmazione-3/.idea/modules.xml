@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Abstract_factory_pattern/Abstract_factory_pattern_sbagliato/Abstract_factory_pattern.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Abstract_factory_pattern/Abstract_factory_pattern_sbagliato/Abstract_factory_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Builder_pattern/Builder_pattern_con_director/Builder_pattern_con_director.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Builder_pattern/Builder_pattern_con_director/Builder_pattern_con_director.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Builder_pattern/Builder_pattern_no_Director/Builder_pattern_no_Director.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Builder_pattern/Builder_pattern_no_Director/Builder_pattern_no_Director.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Programmazione-3.iml" filepath="$PROJECT_DIR$/.idea/Programmazione-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Prototype_pattern/Prototype_patter_con_classe_astratta/Prototype_patter_con_classe_astratta.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Prototype_pattern/Prototype_patter_con_classe_astratta/Prototype_patter_con_classe_astratta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Prototype_pattern/Prototype_pattern_con_interfaccia/Prototype_pattern.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Prototype_pattern/Prototype_pattern_con_interfaccia/Prototype_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Singleton/Singleton_Eager/SingletonEager.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Singleton/Singleton_Eager/SingletonEager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Singleton/Singleton_Lazy_Initializzation/SingletonLazyInitializzation.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Singleton/Singleton_Lazy_Initializzation/SingletonLazyInitializzation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Singleton/Singleton_Sync/SingletonSync.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Singleton/Singleton_Sync/SingletonSync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Singleton/Singleton_Double_Sync/Singleton_Double_Sync.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Singleton/Singleton_Double_Sync/Singleton_Double_Sync.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TESTING/TESTING.iml" filepath="$PROJECT_DIR$/TESTING/TESTING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Abstract_factory_pattern/abstract_factory_pattern_corretto/abstract_factory_pattern_corretto.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Abstract_factory_pattern/abstract_factory_pattern_corretto/abstract_factory_pattern_corretto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern/factory_method_design_pattern/factory_method_design_pattern.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern/factory_method_design_pattern/factory_method_design_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern/simple_factory_pattern/simple_factory_pattern.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern/simple_factory_pattern/simple_factory_pattern.iml" />
     </modules>
   </component>
 </project>
