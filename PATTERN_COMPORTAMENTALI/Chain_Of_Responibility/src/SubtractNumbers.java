@@ -1,4 +1,3 @@
-import java.util.Objects;
 // concettualmente identico alla classe addNumbers, solo che questo è l'ultimo oggetto nella catena delle responsabilità infatti nell else non ci sta un altra richiesta
 public class SubtractNumbers implements Chain {
     private Chain nextInChain;
