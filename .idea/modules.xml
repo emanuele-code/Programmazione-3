@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Builder_pattern/Builder_pattern_con_director/Builder_pattern_con_director.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Builder_pattern/Builder_pattern_con_director/Builder_pattern_con_director.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Builder_pattern/Builder_pattern_no_Director/Builder_pattern_no_Director.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Builder_pattern/Builder_pattern_no_Director/Builder_pattern_no_Director.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Chain_Of_Responibility/Chain_Of_Responibility.iml" filepath="$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Chain_Of_Responibility/Chain_Of_Responibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Command/Command.iml" filepath="$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Command/Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Iterator/Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Programmazione-3.iml" filepath="$PROJECT_DIR$/.idea/Programmazione-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Prototype_pattern/Prototype_patter_con_classe_astratta/Prototype_patter_con_classe_astratta.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Prototype_pattern/Prototype_patter_con_classe_astratta/Prototype_patter_con_classe_astratta.iml" />
