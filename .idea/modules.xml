@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/TESTING/TESTING.iml" filepath="$PROJECT_DIR$/TESTING/TESTING.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/template/Template_Classe_Astratta/Template.iml" filepath="$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/template/Template_Classe_Astratta/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Visitor/Visitor.iml" filepath="$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Visitor/Visitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Abstract_factory_pattern/abstract_factory_pattern_corretto/abstract_factory_pattern_corretto.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Abstract_factory_pattern/abstract_factory_pattern_corretto/abstract_factory_pattern_corretto.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern/factory_method_design_pattern/factory_method_design_pattern.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern/factory_method_design_pattern/factory_method_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern/simple_factory_pattern/simple_factory_pattern.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern/simple_factory_pattern/simple_factory_pattern.iml" />
