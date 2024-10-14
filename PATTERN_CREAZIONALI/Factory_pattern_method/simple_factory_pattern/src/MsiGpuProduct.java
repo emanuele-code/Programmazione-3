@@ -1,4 +1,4 @@
-package PATTERN_CREAZIONALI.Factory_pattern.simple_factory_pattern.src;
+package PATTERN_CREAZIONALI.Factory_pattern_method.simple_factory_pattern.src;
 
 // classe del panino con pesce
 public class MsiGpuProduct extends GPU {

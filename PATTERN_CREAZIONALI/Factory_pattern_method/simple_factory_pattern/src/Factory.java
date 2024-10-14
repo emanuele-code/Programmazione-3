@@ -1,4 +1,4 @@
-package PATTERN_CREAZIONALI.Factory_pattern.simple_factory_pattern.src;
+package PATTERN_CREAZIONALI.Factory_pattern_method.simple_factory_pattern.src;
 
 // separando le componenti qui posso creare un metodo semplicemente al quale effettuiamo la richiesta
 // questo porta il codice ad essere più mantenibile

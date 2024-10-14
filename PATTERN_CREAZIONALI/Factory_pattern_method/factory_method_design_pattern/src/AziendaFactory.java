@@ -1,4 +1,4 @@
-package PATTERN_CREAZIONALI.Factory_pattern.factory_method_design_pattern.src;
+package PATTERN_CREAZIONALI.Factory_pattern_method.factory_method_design_pattern.src;
 
 // la FACTORY è astratta èd implementa un FACTORY METHOD che a sua volta è astratto
 public abstract class AziendaFactory {

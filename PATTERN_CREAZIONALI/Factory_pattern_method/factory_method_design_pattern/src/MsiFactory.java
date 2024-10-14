@@ -1,4 +1,4 @@
-package PATTERN_CREAZIONALI.Factory_pattern.factory_method_design_pattern.src;
+package PATTERN_CREAZIONALI.Factory_pattern_method.factory_method_design_pattern.src;
 
 // CONCRETE FACTORY qui facciamo l'override del FACTORY METHOD ritornando il CONCRETE PRODUCT
 public class MsiFactory extends AziendaFactory {

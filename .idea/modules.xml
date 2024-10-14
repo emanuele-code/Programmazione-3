@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Builder_pattern/Builder_pattern_no_Director/Builder_pattern_no_Director.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Builder_pattern/Builder_pattern_no_Director/Builder_pattern_no_Director.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Chain_Of_Responibility/Chain_Of_Responibility.iml" filepath="$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Chain_Of_Responibility/Chain_Of_Responibility.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Command/Command.iml" filepath="$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_Pattern/Factory_Pattern.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_Pattern/Factory_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Iterator/Iterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Mediator/Mediator.iml" filepath="$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Mediator/Mediator.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Memento/Memento.iml" filepath="$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Memento/Memento.iml" />
@@ -24,8 +25,8 @@
       <module fileurl="file://$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/template/Template_Classe_Astratta/Template.iml" filepath="$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/template/Template_Classe_Astratta/Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Visitor/Visitor.iml" filepath="$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/Visitor/Visitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Abstract_factory_pattern/abstract_factory_pattern_corretto/abstract_factory_pattern_corretto.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Abstract_factory_pattern/abstract_factory_pattern_corretto/abstract_factory_pattern_corretto.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern/factory_method_design_pattern/factory_method_design_pattern.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern/factory_method_design_pattern/factory_method_design_pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern/simple_factory_pattern/simple_factory_pattern.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern/simple_factory_pattern/simple_factory_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern_method/factory_method_design_pattern/factory_method_design_pattern.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern_method/factory_method_design_pattern/factory_method_design_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern_method/simple_factory_pattern/simple_factory_pattern.iml" filepath="$PROJECT_DIR$/PATTERN_CREAZIONALI/Factory_pattern_method/simple_factory_pattern/simple_factory_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/template/template_interfaccia/template_interfaccia.iml" filepath="$PROJECT_DIR$/PATTERN_COMPORTAMENTALI/template/template_interfaccia/template_interfaccia.iml" />
     </modules>
   </component>
